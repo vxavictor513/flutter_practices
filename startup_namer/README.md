@@ -1,6 +1,9 @@
 # startup_namer
 
-A new Flutter application.
+A new Flutter application based on:
+
+1. https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/
+2. https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/
 
 ## Getting Started
 

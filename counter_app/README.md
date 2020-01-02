@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project.
+A new Flutter project based on [Flutter in Action - Chapter 3](https://github.com/ericwindmill/flutter_in_action_public/tree/master/chapter_3/counter_app_2.0).
 
 ## Getting Started
 
